@@ -15,7 +15,7 @@ You'll need [Docker] installed to continue.
 ### Configure
 
     docker run -i -t adzerk/eb bash
-    # eb init -r us-east 1
+    # eb init -r us-east-1
 
 After entering your AWS credentials, and while the container is
 running, and in a separate termainal, commit the container's
